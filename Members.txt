@@ -2,20 +2,14 @@ LIST OF MEMBERS FOR TEAM 16
  
 ANG CHUN YIK
 
-Engineering geek.
- 
-Role in project: Group leader, programmer
-
-Preferred branch of engineering: Mechatronics 
-
 CHOO SHEE KEAT
 
 GOH JIAN TSEN 
 
+Engineering Geek
+
+Role in project: Group member, programmer
+
+Preferred branch of engineering: Civil
+
 LIM YUN MUN
-
-Engineering geek.
- 
-Role in project: Group member, assignment uploader, programmer
-
-Preferred branch of engineering: Electrical and Computer System
